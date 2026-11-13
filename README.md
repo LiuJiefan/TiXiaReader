@@ -2,6 +2,13 @@
 
 HarmonyOS本地电子书、漫画与文档阅读器。公开入口与按版本提供的完整对应源码，不是已经上架的正式应用。
 
+## 314发行准备对应源码
+
+- [1000314 / 1.0.0完整对应源码与SHA256](https://github.com/LiuJiefan/TiXiaReader/releases/tag/source-1000314)。
+- 下载命名附件 **TiXiaReader-corresponding-source-1000314.zip**，33,598,503字节，SHA256：`0deabdc7c4cbeade19c68813b2ca9ffab6028208fd9ae06c4fb71ca97bf37b20`；源码提交`8cfd69aa7c3b708345d35689a8e65422419510e8`，已匿名完整下载核对。
+- 本版源码对应正式签名的发行准备包。模拟器仅有限UI和核心阅读通过，真实IAP及华为审核未完成。APP不在此源码Release分发。
+- 自动Source code附件仍仅为入口仓库；完整实现及依赖请取上述命名附件。309开发基线保持如下，不以旧源冒充314。
+
 ## 下载完整对应源码
 
 - [1000309开发基线：完整对应源码与SHA256](https://github.com/LiuJiefan/TiXiaReader/releases/tag/source-1000309)
